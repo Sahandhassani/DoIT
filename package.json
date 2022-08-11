@@ -4,13 +4,14 @@
   "description": "First app",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sahandhassani/Sahandhassani.git"
   },
-  "author": "",
+  "author": "Sahand",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sahandhassani/Sahandhassani/issues"
